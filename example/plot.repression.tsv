@@ -1,0 +1,13 @@
+"gene"	"repression"	"donorloc"	"receptorloc"
+"1"	"PhlF"	"pSrpR"	2457	1962
+"2"	"SrpR"	"pBAD1"	3662	NA
+"3"	"BM3R1"	"pPhlF"	4615	4118
+"4"	"BetI"	"pAmtR"	5482	5004
+"5"	"AmeR"	"pTet2"	6346	5872
+"6"	"HlyIIR"	"pTac"	7204	NA
+"7"	"AmtR"	"pBAD2"	8358	7744
+"8"	"YFP"	"pBM3R1"	1484	993
+"9"	"PhlF"	"pBetI"	2457	2034
+"10"	"SrpR"	"pTet1"	3662	NA
+"11"	"BM3R1"	"pHlyIIR"	4615	4182
+"12"	"BetI"	"pAmeR"	5482	5068
